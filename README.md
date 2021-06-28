@@ -1,0 +1,1 @@
+# Meu script base de projetos react :)
